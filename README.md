@@ -1,6 +1,9 @@
 <div align="center">
 
-# ⏰ ALARM-HY_KOUSHIK
+# Android Alarm Clock App | Multiple Alarms, Custom Tones & Snooze — ALARM-HY_KOUSHIK
+
+ALARM-HY_KOUSHIK is an Android alarm clock application for creating and managing multiple alarms, selecting custom alarm tones, using snooze controls, and receiving system notifications. The project demonstrates Android application development with Java/Kotlin, Android SDK components, local storage, and a Material-style interface. It is suitable as a learning project or a starting point for a simple personal alarm app.
+
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=6C63FF&center=true&vCenter=true&repeat=true&width=600&lines=Wake+Up+On+Time%2C+Every+Time!;Simple+%7C+Intuitive+%7C+Reliable;Android+Alarm+Application" alt="Typing SVG" />
 
